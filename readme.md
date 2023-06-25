@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **QT Framework, C++ and Data Science**
 
-- 📫 [E-Mail for reaching me out] **mehmeteren.ozden@stemegitimciler.org**
+- 📫 E-Mail for reaching me out **mehmeteren.ozden@stemegitimciler.org**
 
 - ⚡ Fun fact **Cloudflare is not the best**
 
