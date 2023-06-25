@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erenozden12&label=Profile%20views&color=0e75b6&style=flat" alt="erenozden12" /> </p>
 
-- 🔭 I’m currently working on [AISM (Artificial Intelligence Supported Assement System)](https://github.com/erenozdeN12/Artificial-Intelligence-Supported-Assesement-System-STREAM-It-Up--2)
+- 🔭 I’m currently working on Developing Something etc.
 
 - 🌱 I’m currently learning **QT Framework, C++ and Data Science**
 
-- 📫 How to reach me **mehmeteren.ozden@stemegitimciler.org**
+- 📫 [E-Mail for reaching me out] **mehmeteren.ozden@stemegitimciler.org**
 
 - ⚡ Fun fact **Cloudflare is not the best**
 
